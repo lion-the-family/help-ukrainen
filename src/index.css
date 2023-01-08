@@ -7,6 +7,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #ffff;
+    height: 100vh;
 }
 
 .header{
