@@ -73,8 +73,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
 }
 
 .donat_and_facebook{
@@ -82,6 +80,8 @@ body {
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    margin-top: 100px;
+    margin-bottom: 100px;
     width: 200px;
     height: 50px;
     font-size: 20px;
